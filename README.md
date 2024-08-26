@@ -9,14 +9,19 @@ This unique drivetrain allows for full maneuvaribility in all directions, while 
 
 ## Demonstrating the robot-- Suspension & Holonomic Movement!
 
-<video controls width="600">
-  <source src="vid1.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-![Video 1](https://s3.ezgif.com/tmp/ezgif-3-b234c100b5.gif)
+Click the links to see videos of the robot driving! 
+Full speed in all directions and traversing over obstacles.
+
+[Video 1](https://s2.ezgif.com/tmp/ezgif-2-4536943cc6.gif)
 *Demonstrating the robots maneuvaribility in all directions*
 
-![Video 2](https://s5.ezgif.com/tmp/ezgif-5-face1d7daa.gif)
+[Video 2](https://s2.ezgif.com/tmp/ezgif-2-a4a8cecd28.gif)
+*Traveling over terrain while maintaining horizontal chassis*
+
+[Video 1](vid1.gif)
+*Demonstrating the robots maneuvaribility in all directions*
+
+[Video 2](vid2.gif)
 *Traveling over terrain while maintaining horizontal chassis*
 
 ---
