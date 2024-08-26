@@ -12,11 +12,6 @@ This unique drivetrain allows for full maneuvaribility in all directions, while 
 Click the links to see videos of the robot driving! 
 Full speed in all directions and traversing over obstacles.
 
-[Video 1](https://s2.ezgif.com/tmp/ezgif-2-4536943cc6.gif)
-*Demonstrating the robots maneuvaribility in all directions*
-
-[Video 2](https://s2.ezgif.com/tmp/ezgif-2-a4a8cecd28.gif)
-*Traveling over terrain while maintaining horizontal chassis*
 
 [Video 1](vid1.gif)
 *Demonstrating the robots maneuvaribility in all directions*
