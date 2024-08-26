@@ -9,8 +9,8 @@ This unique drivetrain allows for full maneuvaribility in all directions, while 
 
 ## Demonstrating the robot-- Suspension & Holonomic Movement!
 
-<video controls>
-  <source src="vid1.mov" type="video/quicktime">
+<video controls width="600">
+  <source src="vid1.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 ![Video 1](https://s3.ezgif.com/tmp/ezgif-3-b234c100b5.gif)
