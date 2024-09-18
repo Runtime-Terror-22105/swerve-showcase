@@ -1,23 +1,9 @@
 # FTC Independent Suspension Coaxial Swerve Drive
 
+## SHOWCASE VIDEO: https://www.youtube.com/watch?v=VUyIV2vnNWE
 Welcome to the project page for the **FTC Independent Suspension Coaxial Swerve Drive**! This project, developed by FIRST TECH CHALLENGE Team #22105 Runtime Terror, is the FIRST (pun intended 😉) ever FIRST drivetrain with three degrees of freedom: each wheel can independently rotate on the pitch and yaw axis while also moving up and down. FTC Swerves have only been created by less than 50 teams, and a suspension version has never been done in FTC or FRC.
 
 This unique drivetrain allows for full maneuvaribility in all directions, while maintaining full power unlike a Mecanum drive. The suspension allows for easy travel over rough terrain (our prediction for the Into the Deep FTC season), and consistent odometry tracking.
-
----
-
-
-## Demonstrating the robot-- Suspension & Holonomic Movement!
-
-Click the links to see videos of the robot driving! 
-Full speed in all directions and traversing over obstacles.
-
-
-[Video 1](vid1.gif)
-*Demonstrating the robots maneuvaribility in all directions*
-
-[Video 2](vid2.gif)
-*Traveling over terrain while maintaining horizontal chassis*
 
 ---
 
